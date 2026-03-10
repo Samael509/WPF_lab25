@@ -42,6 +42,7 @@
 
 ## Контакты
 Если есть вопросы
+
 Автор: [Uyutov Pavel (gmail: pavel718234@gmail.com)]
 
 Репозиторий: https://github.com/Samael509/WPF_lab25.git
